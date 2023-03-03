@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/therobofriends/static/css/main.d76e9e60.css",
+    "main.js": "/therobofriends/static/js/main.ed5a5e31.js",
+    "static/media/SEGA.woff": "/therobofriends/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/therobofriends/index.html",
+    "main.d76e9e60.css.map": "/therobofriends/static/css/main.d76e9e60.css.map",
+    "main.ed5a5e31.js.map": "/therobofriends/static/js/main.ed5a5e31.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d76e9e60.css",
+    "static/js/main.ed5a5e31.js"
+  ]
+}
